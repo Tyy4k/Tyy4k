@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1">IT Support Analyst</a>
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/Tyy4k">IT Support Analyst</a>
 <h2>👨‍💻 IT Projects:</h2>
 
 
